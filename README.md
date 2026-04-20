@@ -15,8 +15,8 @@ In the root directory of project, you can run this commands on terminal:
 ## Technologies
 ***
 A list of technologies used within the project:
-* node v16.16.0
-* npm v8.11.0
-* reactjs + Material_UI for UI 
+* node 
+* npm 
+* reactjs  for UI 
 * mongodb for database
 
